@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "main": "server.js",
   "type": "module",
-  "scripts": {
-    "start": "node server.js"
-  },
   "dependencies": {
     "@google/genai": "^0.7.0",
     "dotenv": "^16.0.0",
